@@ -10,4 +10,6 @@ return(
   )
 })
 return (
-  <div id="projects"></div>
+  <div id="projects">
+     <h2>My Projects</h2>
+  </div>
